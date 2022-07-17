@@ -18,10 +18,9 @@
 
 .main{
     background-color: hsl(217, 54%, 11%);
-    width: 80%;
-    margin: 30px auto;
+    width: 100%;
     box-sizing: border-box;
-    padding: 25px 0;
+  
 }
 .card{
     box-sizing: border-box;
